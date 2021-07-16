@@ -1,3 +1,3 @@
-module github.com/a-poor/gjq
+module github.com/a-poor/gq
 
 go 1.16
